@@ -182,10 +182,8 @@
     "merchantPassword": "string"
   }
 - **Response Body:**
-  ```json
-  {
-  "isValid": true
-  }
+  ```sh
+  Boolean true / false
 
 ### Delete Merchant
 
@@ -209,10 +207,8 @@
   "merchantPassword": "string"
   }
 - **Response Body:**
-  ```json
-  {
-  "isValid": true
-  }
+  ```sh
+  Boolean true / false
 
 ### Get Merchant Name
 
@@ -343,10 +339,8 @@
               ]
   }
 - **Response Body:**
-  ```json
-  {
-  "isValid": true
-  }
+  ```sh
+  Boolean true / false
 
 ### Edit Merchant Product
 
