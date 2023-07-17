@@ -36,13 +36,18 @@ Before running the BetterBuy Backend, make sure you have the following prerequis
 - Java Development Kit (JDK) 11 or higher
 - Maven
 - Docker (optional for running microservices in containers)
+- Apache Solr (for Solr Search Microservice): Install and configure Apache Solr according to the Solr Search Microservice documentation.
 
 ## API Documentation
 
-blah-blah
+Head onto the link [here](https://github.com/kshittijagrawal/betterBuy-backEnd/blob/master/API_DOC.md) to view the complete API Documentation pertaining to the different microservices in use.
+
+## Database Layout
+
+![alt img](https://github.com/kshittijagrawal/betterBuy-backEnd/blob/master/assets/database%20layout.png)
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainers at [email protected]
+If you have any questions or need further assistance, please don't hesitate to reach out.
 
 Happy coding!
